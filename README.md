@@ -1,4 +1,4 @@
-### Hi there, I'm ALİ - ACER  👋
+### Hi there, I'm Ali ACER 📫 👋
 
 
 
@@ -79,19 +79,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-  
 <img width=130px align="left" src="https://github.com/ellerbrock/open-source-badges/blob/master/badges/open-source-v1/open-source-150x25.png?raw=true" />
 
 <br>
@@ -107,7 +94,7 @@
 - 🤔 I'm looking for help with statistics ;
 - 💬 Ask me about: Python and Web development;
 - ⚡️ Fun-Fact: lots of fun facts;
-- 📫 How to reach me: [Contact](email)
+<!-- - 📫 How to reach me: [Contact](email) -->
 
  
 <br />
