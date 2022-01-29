@@ -1,4 +1,4 @@
-### Hi there, I'm Ali ACER 📫 👋
+### Hi there, I'm Ali ACER 👋 💻
 
 
 
